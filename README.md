@@ -17,6 +17,12 @@ pkg update python3
 pkg install git
 ```
 ```
+mkdir /sdcard/Gujjuopgohil-tg/ -p
+```
+```
+cd /sdcard/Gujjuopgohil-tg
+```
+```
 git clone https://github.com/narjio/TechOP-SAaccount && cd TechOP-SAaccount
 ```
 ```
@@ -72,9 +78,6 @@ python3 gen_sa_accounts.py --download-keys $PROJECT ID
 ls
 ```
 ```
-cd
-```
-```
 cd accounts
 ```
 ```
@@ -84,7 +87,6 @@ grep -oPh '"client_email": "\K[^"]+' *.json > emails.txt
 ls
 ```
 ```
-
 cd ..
 ```
 ```
