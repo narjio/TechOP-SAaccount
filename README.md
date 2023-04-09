@@ -1,5 +1,6 @@
 #  How to create service account with mobile phone using termux
-- YouTube Link: [Service Accounts Tutorial](https://youtu.be/HzpOwbMHoAY)
+- YouTube Link part 1: [Service Accounts Tutorial](https://youtu.be/GCIp656t1pw)
+- YouTube Link part 2: [Service Accounts Tutorial](https://youtu.be/_8WuH0h0-88)
 - [x] First install termux on your phone and You can download Termux here by click below link
 - [![](https://telegra.ph/file/86bdd0fcc9094cc5a84b3.png)version .118](https://new6.gdtot.cfd/file/101739646)
 
