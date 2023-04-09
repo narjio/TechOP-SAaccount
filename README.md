@@ -11,14 +11,22 @@ termux-setup-storage
 pkg install python3
 ```
 ```
+pkg update python3
+```
+```
 pkg install git
 ```
 ```
 git clone https://github.com/narjio/TechOP-SAaccount && cd TechOP-SAaccount
 ```
 ```
-pkg install python
+pip3 install -r requirements.txt
 ```
+optional 👇
+```
+pip install --upgrade pip
+```
+
 ```
 pip install --upgrade pip
 ```
