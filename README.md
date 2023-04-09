@@ -22,13 +22,13 @@ git clone https://github.com/narjio/TechOP-SAaccount && cd TechOP-SAaccount
 ```
 pip3 install -r requirements.txt
 ```
-optional 👇
+optional 👇 if not working leave as it is use next commnads
 ```
 pip install --upgrade pip
 ```
-
+use below commands 👇
 ```
-pip install --upgrade pip
+pwd
 ```
 ```
 mkdir /sdcard/MyTermux/ -p
