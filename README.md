@@ -53,6 +53,12 @@ cp -r credentials.json "PASTE YOUR COPIED PWD PATH"
 cd
 ```
 ```
+cd shared
+```
+```
+cd Gujjuopgohil-tg
+```
+```
 cd TechOP-SAaccount
 ```
 ```
