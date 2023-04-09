@@ -56,12 +56,16 @@ ls
 python3 gen_sa_accounts.py
 ```
 go to url and login with same account which you created console.cloud.google.com , drive api credentials  
-NOTE - below line remove PROJECT ID title and paste your PROJECT ID dont remove $ symbol
+NOTE - below line remove PROJECT ID title and paste your PROJECT ID remove $ symbol as well
 ```
 python3 gen_sa_accounts.py --enable-services $PROJECT ID
 ```
-NOTE - below line remove PROJECT ID title and paste your PROJECT ID dont remove $ symbol
+NOTE - below line remove PROJECT ID title and paste your PROJECT ID 
 ```
 python3 gen_sa_accounts.py --create-sas PROJECT ID
 ```
+```
+ls
+```
+
 
