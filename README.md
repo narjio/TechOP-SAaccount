@@ -1,6 +1,9 @@
 #  How to create service account with mobile phone using termux
 
-[![Service Accounts Tutorial](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/GCIp656t1pw -Y "Everything Is AWESOME")
+||Preview|Info|
+|--|--|--|
+|Before|https://youtu.be/WHyOHQ_GkNo|<ul><li>No Preview</li><li>Redirects to video</li></ul>|
+|After|[![](https://markdown-videos.deta.dev/youtube/WHyOHQ_GkNo)](https://youtu.be/WHyOHQ_GkNo)|<ul><li>Clearly shows it's a youtube video</li><li>Play button and backdrop added</li><li>Black bars removed</li><li>Redirects to video</li></ul>|
 
 - YouTube Link part 1: [Service Accounts Tutorial](https://youtu.be/GCIp656t1pw)
 - YouTube Link part 2: [Service Accounts Tutorial](https://youtu.be/_8WuH0h0-88)
