@@ -64,6 +64,10 @@ NOTE - below line remove PROJECT ID title and paste your PROJECT ID
 ```
 python3 gen_sa_accounts.py --create-sas PROJECT ID
 ```
+NOTE - below line remove PROJECT ID title and paste your PROJECT ID remove $ symbol as well
+```
+python3 gen_sa_accounts.py --download-keys $PROJECT ID
+```
 ```
 ls
 ```
