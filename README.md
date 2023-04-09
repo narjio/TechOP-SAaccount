@@ -4,6 +4,10 @@
 |--|--|--|
 |Part 1|[![](https://telegra.ph/file/d168f00348123336b8870.png)](https://youtu.be/GCIp656t1pw)|<ul><li>Create Project id</li><li>Must subscribe </li><li>Direct download link added</li><li>Watch now</li></ul>|
 
+||Preview|Info|
+|--|--|--|
+|Part 2|[![](https://telegra.ph/file/932b5ac5fd9df50b4b454.png)](https://youtu.be/_8WuH0h0-88)|<ul><li>Full video with source links</li><li>Must subscribe </li><li>Direct download link added</li><li>Watch now</li></ul>
+
 - YouTube Link part 1: [Service Accounts Tutorial](https://youtu.be/GCIp656t1pw)
 - YouTube Link part 2: [Service Accounts Tutorial](https://youtu.be/_8WuH0h0-88)
 - [x] First install termux on your phone and You can download Termux here by click below link
