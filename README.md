@@ -31,37 +31,39 @@ use below commands 👇
 pwd
 ```
 ```
-mkdir /sdcard/MyTermux/ -p
+cd
 ```
 ```
-cd /sdcard/MyTermux
+cd storage
 ```
 ```
-git clone https://github.com/luccawill/saaccount
+cd downloads
+```
+REMOVE THIS -> "PASTE YOUR COPIED PWD PATH" AND PASTE YOUR PATH DONT USE "" OPERATOR 
+```
+cp -r credentials.json "PASTE YOUR COPIED PWD PATH"
 ```
 ```
-cd /sdcard/MyTermux/saaccount
+cd
 ```
 ```
-pip3 install -r requirements.txt
+cd TechOP-SAaccount
 ```
-You can get credentials.json file from [Google Console](https://console.cloud.google.com/?pli=1)
+```
+ls
+```
+```
+python3 gen_sa_accounts.py
+```
+go to url and login with same account which you created console.cloud.google.com , drive api credentials 
+NOTE - USE ONLY YOURS RECIVED URL 
 
+NOTE - below line remove PROJECT ID title and paste your PROJECT ID DONT REMOVE $ symbol
 ```
-python3 gen_sa_accounts.py --quick-setup -1
+python3 gen_sa_accounts.py --enable-services $PROJECT ID
 ```
+NOTE - below line remove PROJECT ID title and paste your PROJECT ID DONT REMOVE $ symbol
 ```
-python3 gen_sa_accounts.py  --download-keys Your Project ID
+python3 gen_sa_accounts.py --create-sas PROJECT ID
 ```
-
-```
-python generate_drive_token.py
-```
-```
-cd accounts
-```
-```
-python3 emails.py
-```
-
 
