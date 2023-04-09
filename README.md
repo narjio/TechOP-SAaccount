@@ -71,5 +71,29 @@ python3 gen_sa_accounts.py --download-keys $PROJECT ID
 ```
 ls
 ```
+```
+cd
+```
+```
+cd accounts
+```
+```
+grep -oPh '"client_email": "\K[^"]+' *.json > emails.txt
+```
+```
+ls
+```
+```
+
+cd ..
+```
+```
+python3 generate_drive_token.py
+```
+```
+exit
+```
+
+
 
 
