@@ -14,7 +14,7 @@ pkg install python3
 pkg install git
 ```
 ```
-git clone https://github.com/Greymattersbot/Services-Accounts-script && cd Services-Accounts-script
+git clone https://github.com/narjio/TechOP-SAaccount && cd TechOP-SAaccount
 ```
 ```
 pkg install python
