@@ -8,8 +8,9 @@
 |--|--|--|
 |Part 2|[![](https://telegra.ph/file/932b5ac5fd9df50b4b454.png)](https://youtu.be/_8WuH0h0-88)|<ul><li>Full video with source links</li><li>Must subscribe </li><li>Direct download link added</li><li>Watch now</li></ul>
 
-- [x] First install termux on your phone and You can download Termux here by click below link
-- [![](https://telegra.ph/file/86bdd0fcc9094cc5a84b3.png)version .118](https://new6.gdtot.cfd/file/101739646)
+||Preview|Info|
+|--|--|--|
+|download apk|[![](https://telegra.ph/file/3845b4cf2a564eed510a7.png)](https://new6.gdtot.cfd/file/101739646)|<ul><li>First install termux on your phone</li><li>and You can download Termux here </li><li>By one click</li><li>Click on image to download</li></ul>
 
 After complete installation process, run below cmd on termux.
 ```
