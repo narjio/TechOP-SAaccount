@@ -62,6 +62,10 @@ cp -r credentials.json "PASTE YOUR COPIED PWD PATH"
 cd
 ```
 ```
+cd storage 
+```
+
+```
 cd shared
 ```
 ```
