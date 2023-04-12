@@ -109,6 +109,9 @@ ls
 cd ..
 ```
 ```
+cd TechOP-SAaccount
+```
+```
 python3 generate_drive_token.py
 ```
 ```
